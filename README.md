@@ -1,5 +1,6 @@
-# IoT_CIA_1
+# IoT_CIA_2
 
-Review/Summary of the paper 'A Review of IoT Sensing Applications and Challenges Using RFID and Wireless Sensor Networks'
+Time series forecasting of Electricity Consumption of an Electrical Blower Machine recorded with the help of an IoT sensor.
+Forecasting done using the AutoRegressive Integrated Moving Average (ARIMA) model.
 
-[Link to the original paper](https://mdpi-res.com/d_attachment/sensors/sensors-20-02495/article_deploy/sensors-20-02495-v2.pdf?version=1588227194)
+[Link to the dataset used.](https://www.kaggle.com/datasets/vitthalmadane/energy-consumption-time-series-dataset)
